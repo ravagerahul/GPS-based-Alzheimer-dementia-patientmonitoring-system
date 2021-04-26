@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570732339879",
+    "project_id": "alzheimer-patient-tracki-9d204",
+    "storage_bucket": "alzheimer-patient-tracki-9d204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570732339879:android:34df9047e82fa20110b182",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570732339879-44e5bq1033rv0lnc70m61f1vm6vddk0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeaK93DA0w6d9n6M6KhiAbU9uwJTGcv7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570732339879-44e5bq1033rv0lnc70m61f1vm6vddk0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
